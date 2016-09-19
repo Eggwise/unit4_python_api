@@ -13,13 +13,14 @@ De library generator leest dit bestand vervolgens in om hiervan python modules t
 De uiteindelijke library komt terecht in de “generated” folder.
 
 
-Wat werkt er nog niet:
+###Wat werkt er nog niet:
 - De methode namen van de python classes worden nog niet volgens een mooi “pythonic” formaat gegenereerd.
 - Sommige methodenamen worden nog niet goed gegenereerd, zie administration_data.AccountInfo.py
 - Authorizatie van requests
 - Return values van requests
 
 
+***
 Warning WIP (Work in progress)
 
 Do not use the library because all method names will be changed in further releases.
@@ -29,7 +30,6 @@ Do not use the library because all method names will be changed in further relea
 http://www.eggwise.com
 
 ^
-|
 
 website also WIP.
 
